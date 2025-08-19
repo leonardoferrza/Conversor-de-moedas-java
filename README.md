@@ -50,6 +50,7 @@ Este projeto foi desenvolvido como parte do Desafio de Programação do programa
     * Abra o projeto em sua IDE (IntelliJ, Eclipse, etc.).
     * Execute o método `main` na classe `Main.java`.
 
+    * Após a execução, o menu interativo da aplicação aparecerá no seu console, pronto para ser usado.
 ---
 
 ## 🧑‍💻 Autor
